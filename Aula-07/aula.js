@@ -65,7 +65,7 @@ console.log(meses);
 
 //Aula 7.7 - Arrays Multidimensionais = Matriz
 
-//Aula 7.8 Arrays - Operações
+//Aula 7.8 - Arrays - Operações
 
 const newFrutas = frutasA.concat("abobora");
 console.log(newFrutas);
